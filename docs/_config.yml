@@ -15,7 +15,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    rushawx:
       name:           rushawx
       display_name:   Anton Shishkov
       site:           https://www.rushawx.ghost.io
