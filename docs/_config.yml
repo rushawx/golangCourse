@@ -18,11 +18,10 @@ authors:
     rushawx:
       name:           rushawx
       display_name:   Anton Shishkov
-      site:           https://www.rushawx.ghost.io
+      site:           https://rushawx.ghost.io
       avatar:         /assets/images/photo.jpg
       bio:            "Hi, I am Anton, the author of this Golang Course. I hope you like it!"
       email:          rushawx@gmail.com
-      tg:             https://t.me/rushawx
 
 
 defaults:
